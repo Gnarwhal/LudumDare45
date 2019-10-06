@@ -1,0 +1,9 @@
+numBlocks
+killFloor
+player.x,player.y
+goal.x,goal.y
+numPlatforms
+platform-n.x,platform-n.y,platform-n.width,platform-n.height
+.
+.
+.
